@@ -1,0 +1,13 @@
+# ignore everything
+#*
+#/*
+## But not these files...
+#
+#!.gitignore
+#!README.md
+#!/*.java
+
+.settings
+/bin
+.project
+.classpath
